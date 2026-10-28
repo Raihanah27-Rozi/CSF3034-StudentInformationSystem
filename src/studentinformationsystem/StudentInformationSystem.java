@@ -15,6 +15,7 @@ public class StudentInformationSystem {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Student Information System");
         System.out.println("Name: Siti Nor Raihanah Binti Muhamad Rozihan");
         System.out.println("Student ID: S84800");
         int mark1 = 40;
@@ -27,7 +28,7 @@ public class StudentInformationSystem {
         else if(total>=60){
             System.out.println("Result: Good"); }
         else {
-            System.out.println("Result: Need Improvement"); }   
+            System.out.println("Result: Need Improvement"); }  
     }
     
 }
